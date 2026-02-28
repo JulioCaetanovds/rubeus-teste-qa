@@ -64,3 +64,31 @@
 * **Prioridade:** Baixa
 * **Descrição:** Na seção de texto com fundo cinza claro, há inconsistências na formatação tipográfica. Alguns parágrafos apresentam recuo na primeira linha, enquanto outros não. Além disso, o último bloco de texto está formatado inteiramente em negrito sem um propósito claro de hierarquia, destoando do restante do conteúdo. Sugere-se padronizar o espaçamento, recuo e peso da fonte em todos os blocos.
 * **Anexo:** `[Inserir print dos textos desalinhados aqui]`
+
+## Item 10 - Inconsistência de texto nos cards da seção "Outros Cursos"
+* **Tipo:** Correção
+* **Classificação:** Usabilidade
+* **Prioridade:** Média
+* **Descrição:** Os textos nos cards de "Outros Cursos" apresentam erros de digitação e falta de padronização. O primeiro card exibe "Saiba " (incompleto) e o terceiro exibe "Salba mais" (erro de digitação). O esperado é a padronização para "Saiba mais" em todos os cards.
+* **Anexo:** ![Erro no Texto do Card](./imagens/erro_de_texto.png)
+
+## Item 11 - Cards da seção "Outros Cursos" sem interatividade
+* **Tipo:** Correção
+* **Classificação:** Utilidade
+* **Prioridade:** Alta
+* **Descrição:** Nenhum dos três cards na seção "Outros Cursos" possui links ou áreas clicáveis ativas. Ao interagir com eles (ou clicar nas setas), nenhuma ação é executada, impossibilitando o usuário de acessar as informações adicionais dos cursos apresentados.
+* **Anexo:** `[Inserir print da seção Outros Cursos aqui]`
+
+## Item 12 - Redirecionamento incorreto no ícone do YouTube
+* **Tipo:** Correção
+* **Classificação:** Utilidade
+* **Prioridade:** Alta
+* **Descrição:** No rodapé (footer) da página, o link associado ao ícone do YouTube está redirecionando incorretamente para a plataforma TikTok. O comportamento esperado é que o ícone direcione o usuário para o canal oficial da instituição no YouTube.
+* **Anexo:** `[Inserir print do rodapé com os ícones sociais aqui]`
+
+## Item 13 - Desalinhamento vertical na faixa inferior ("Lorem Ipsum Text pellente.")
+* **Tipo:** Melhoria
+* **Classificação:** Desejabilidade
+* **Prioridade:** Baixa
+* **Descrição:** Na faixa azul escura acima do rodapé final, o texto "Lorem Ipsum Text pellente." e o botão "Quero me certificar" não estão perfeitamente alinhados verticalmente (alinhamento central no eixo Y). Isso gera uma leve quebra na harmonia visual da seção. Sugere-se ajustar o alinhamento utilizando propriedades como `align-items: center` (se for um container flex).
+* **Anexo:** `[Inserir print do desalinhamento na faixa azul aqui]`
