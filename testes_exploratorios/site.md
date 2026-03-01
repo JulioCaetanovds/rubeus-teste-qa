@@ -77,14 +77,14 @@
 * **Classificação:** Desejabilidade
 * **Prioridade:** Baixa
 * **Descrição:** A estrutura visual da seção de captura de e-mails apresenta desalinhamento. O bloco de texto promocional ("NÃO FIQUE DE FORA!") encontra-se excessivamente colado aos campos do formulário, indicando ausência de margens e de um grid bem definido entre os elementos.
-* **Anexo:** ![Print do layout colado na newsletter](./imagens/layout_newsletter.png)
+* **Anexo:** ![Print do layout colado na newsletter](./imagens/layou_newsletter.png)
 
 ## Item 12 - Sobrescrita visual no título da seção de Depoimentos
 * **Tipo:** Melhoria
 * **Classificação:** Desejabilidade
 * **Prioridade:** Baixa
 * **Descrição:** O título "O QUE NOSSOS ALUNOS DIZEM?" apresenta uma formatação onde a linha de sublinhado (underline) está sobreposta à base das letras, cortando caracteres como a letra "Q". Isso prejudica a estética e a legibilidade da tipografia.
-* **Anexo:** ![Print do título com underline colado](./imagens/imagem_titulo_depoimentos.png)
+* **Anexo:** ![Print do título com underline colado](./imagens/imagem_titulo_depoimento.png)
 
 ## Item 13 - Erro de formatação no texto do terceiro depoimento
 * **Tipo:** Correção
