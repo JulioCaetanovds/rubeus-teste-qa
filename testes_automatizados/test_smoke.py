@@ -12,5 +12,4 @@ def test_navigation_to_events(page: Page):
         page.get_by_role("link", name="EVENTOS").click()
     
     popup = popup_info.value
-    # SETUP: validation based on codegen redirect
     assert "analista-rubeus" in popup.url.lower()

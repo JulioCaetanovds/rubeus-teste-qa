@@ -18,7 +18,6 @@ def test_mobile_responsive_menu_absence(playwright: Playwright, browser):
     page = context.new_page()
     page.goto("https://qualidade.apprbs.com.br/site")
     
-    # ACTION: toggle locator
     mobile_menu = page.locator(".navbar-toggler, .menu-mobile, #hamburger")
     expect(mobile_menu).to_be_visible()
     
